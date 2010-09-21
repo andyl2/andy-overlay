@@ -1,0 +1,18 @@
+<repositories version="1.0">
+
+<repo quality="testing" status="unofficial">
+<name>andy-overlay</name>
+<description>Andy's Overlay</description>
+<homepage>http://github.com/andyl2/andy-overlay</homepage>
+
+<owner>
+<email>andy-overlay@andyl.eml.cc</email>
+</owner>
+<source type="git">git://github.com/andyl2/andy-overlay.git</source>
+<source type="git">http://github.com/andyl2/andy-overlay.git</source>
+
+<feed>
+http://github.com/feeds/andyl2/commits/[..]
+</feed>
+</repo>
+</repositories>
